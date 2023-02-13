@@ -1,13 +1,12 @@
 -- import: priyanka9634.github.io/ftd-pratice/assets as assets
 -- import: sunsetcs
+-- import: typo
 
--- $ds.site-logo:
-light: $assets.files.logo.png
-dark: $assets.files.logo.png
 
 
 -- ds.page: Welcome to your [FASTN site](https://fastn.dev/)
 colors: $sunsetcs.main
+types: $typo.types
 site-logo: $assets.files.logo.png
 
 FASTN Blank Package Template Repo

@@ -1,10 +1,10 @@
 -- import: fastn
 
 -- fastn.package: priyanka9634.github.io/ftd-pratice
-download-base-url: https://raw.githubusercontent.com/priyanka9634/<repo_name>/main
+download-base-url: https://raw.githubusercontent.com/priyanka9634/ftd-pratice/main
 
 -- fastn.dependency: fifthtry.github.io/doc-site as ds
 -- fastn.dependency: fifthtry.github.io/saturated-sunset-cs as sunsetcs
-
+-- fastn.dependency: fifthtry.github.io/fastn-typography as typo
 -- fastn.auto-import: ds
 -- fastn.auto-import: priyanka9634.github.io/ftd-pratice/assets
